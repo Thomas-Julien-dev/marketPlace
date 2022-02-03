@@ -3,7 +3,8 @@
 ![Design preview for the E-commerce product page coding challenge](./design/desktop-preview.jpg)
 
 
-## répartition des tâches:
+## Répartition des tâches:
+
 Nous avons suivi le tutoriel suivant : https://youtu.be/hSs3POz2bRo
 
 **HTML** : Thomas JULIEN / Quentin SEURT
